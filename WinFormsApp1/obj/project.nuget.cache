@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1uQpewTr5sM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kenan\\Desktop\\yagmur-odevler\\ceviri\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenan\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kenan\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kenan\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
